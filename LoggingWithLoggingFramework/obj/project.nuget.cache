@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HPJRRv8/XwdlMCB8gePXSpMV0ko+4AILm5CwV4YK1zKln/rJ57agm6vPFM5MxU/qCon5eyQjj2xmtoDRP59B0w==",
+  "success": true,
+  "projectFilePath": "E:\\GitHub\\Articles-Posts\\C#\\Ensuring Secure Coding in C#\\ZR.CodeExample.EnsuringSecureCoding\\LoggingWithLoggingFramework\\LoggingWithLoggingFramework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziggy\\.nuget\\packages\\serilog\\3.0.1\\serilog.3.0.1.nupkg.sha512",
+    "C:\\Users\\ziggy\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

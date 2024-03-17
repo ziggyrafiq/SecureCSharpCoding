@@ -1,0 +1,15 @@
+E:\GitHub\Articles-Posts\C#\Ensuring Secure Coding in C#\ZR.CodeExample.EnsuringSecureCoding\ErrorHandlingWithTryCatch\bin\Debug\net7.0\ErrorHandlingWithTryCatch.exe
+E:\GitHub\Articles-Posts\C#\Ensuring Secure Coding in C#\ZR.CodeExample.EnsuringSecureCoding\ErrorHandlingWithTryCatch\bin\Debug\net7.0\ErrorHandlingWithTryCatch.deps.json
+E:\GitHub\Articles-Posts\C#\Ensuring Secure Coding in C#\ZR.CodeExample.EnsuringSecureCoding\ErrorHandlingWithTryCatch\bin\Debug\net7.0\ErrorHandlingWithTryCatch.runtimeconfig.json
+E:\GitHub\Articles-Posts\C#\Ensuring Secure Coding in C#\ZR.CodeExample.EnsuringSecureCoding\ErrorHandlingWithTryCatch\bin\Debug\net7.0\ErrorHandlingWithTryCatch.dll
+E:\GitHub\Articles-Posts\C#\Ensuring Secure Coding in C#\ZR.CodeExample.EnsuringSecureCoding\ErrorHandlingWithTryCatch\bin\Debug\net7.0\ErrorHandlingWithTryCatch.pdb
+E:\GitHub\Articles-Posts\C#\Ensuring Secure Coding in C#\ZR.CodeExample.EnsuringSecureCoding\ErrorHandlingWithTryCatch\obj\Debug\net7.0\ErrorHandlingWithTryCatch.csproj.AssemblyReference.cache
+E:\GitHub\Articles-Posts\C#\Ensuring Secure Coding in C#\ZR.CodeExample.EnsuringSecureCoding\ErrorHandlingWithTryCatch\obj\Debug\net7.0\ErrorHandlingWithTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Articles-Posts\C#\Ensuring Secure Coding in C#\ZR.CodeExample.EnsuringSecureCoding\ErrorHandlingWithTryCatch\obj\Debug\net7.0\ErrorHandlingWithTryCatch.AssemblyInfoInputs.cache
+E:\GitHub\Articles-Posts\C#\Ensuring Secure Coding in C#\ZR.CodeExample.EnsuringSecureCoding\ErrorHandlingWithTryCatch\obj\Debug\net7.0\ErrorHandlingWithTryCatch.AssemblyInfo.cs
+E:\GitHub\Articles-Posts\C#\Ensuring Secure Coding in C#\ZR.CodeExample.EnsuringSecureCoding\ErrorHandlingWithTryCatch\obj\Debug\net7.0\ErrorHandlingWithTryCatch.csproj.CoreCompileInputs.cache
+E:\GitHub\Articles-Posts\C#\Ensuring Secure Coding in C#\ZR.CodeExample.EnsuringSecureCoding\ErrorHandlingWithTryCatch\obj\Debug\net7.0\ErrorHandlingWithTryCatch.dll
+E:\GitHub\Articles-Posts\C#\Ensuring Secure Coding in C#\ZR.CodeExample.EnsuringSecureCoding\ErrorHandlingWithTryCatch\obj\Debug\net7.0\refint\ErrorHandlingWithTryCatch.dll
+E:\GitHub\Articles-Posts\C#\Ensuring Secure Coding in C#\ZR.CodeExample.EnsuringSecureCoding\ErrorHandlingWithTryCatch\obj\Debug\net7.0\ErrorHandlingWithTryCatch.pdb
+E:\GitHub\Articles-Posts\C#\Ensuring Secure Coding in C#\ZR.CodeExample.EnsuringSecureCoding\ErrorHandlingWithTryCatch\obj\Debug\net7.0\ErrorHandlingWithTryCatch.genruntimeconfig.cache
+E:\GitHub\Articles-Posts\C#\Ensuring Secure Coding in C#\ZR.CodeExample.EnsuringSecureCoding\ErrorHandlingWithTryCatch\obj\Debug\net7.0\ref\ErrorHandlingWithTryCatch.dll
